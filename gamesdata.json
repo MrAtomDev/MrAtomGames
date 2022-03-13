@@ -1,0 +1,321 @@
+{
+    "mortal-run": {
+        "icon":"https://tr.rbxcdn.com/9ab37f5d5ea6579919810960f51efd4c/352/352/Image/Png",
+        "description":"Have fun, go through a world of obstacles and platforms with multiple maps and many players, buy Accessories, effects that will look on your avatar, complete game challenges, break your records, use your skills such as double jump, Slinding, wall climbing, fly through the air with the balloon and show the world who is the best Mortal Runner! 💀🏃‍♂️🏃‍♀️",
+        "name":"Mortal Run (Alpha)",
+        "credits": [
+            {
+                "avatar":"https://tr.rbxcdn.com/5d9aeb7efa7f2f33fe3cea928847c2b7/150/150/AvatarHeadshot/Png",
+                "autor":"MrAtom_Official",
+                "role":"Official Creator (Director) & Programmer",
+                "works":[
+                    "Main Director (Owner)",
+                    "Programmer",
+                    "Gameplay creator",
+                    "Concept creator",
+                    "Lobby builder",
+                    "Interface designer",
+                    "General Maps builder"
+                ],
+                "social_media":[
+                    "https://twitter.com/MrAtomOfficial1",
+                    "https://www.roblox.com/users/1658144627/profile"
+                ]
+            },
+            {
+                "avatar":"https://yt3.ggpht.com/WLu-M03xiZZQwyPWBTlk12eThlQ9CYFB4HeLA_9TYRq7QKPmL6opScIXlrkPnMj7iV2gqwN00g=s176-c-k-c0x00ffffff-no-rj",
+                "autor":"Waterflame",
+                "role":"Music Composer",
+                "works":[
+                    "Playground Soundtrack: Glorious Morning 2 🎵",
+                    "Acient Desert Soundtrack: The Wanderer 🎵",
+                    "Unknow Area Soundtrack: Run! 🎵",
+                    "Magic Forest Soundtrack: Relentless 🎵",
+                    "Sweet Paradice Soundtrack: Jumper 2 🎵",
+                    "Toxic Installation Soundtrack: Rocket Race 🎵",
+                    "Blocks Island Soundtrack: Race around the world 🎵"
+                ],
+                "social_media":[
+                    "https://www.youtube.com/user/waterflame89",
+                    "https://www.twitter.com/WaterflameMusic",
+                    "https://www.waterflame.com/"
+                ]
+            },
+            {
+                "avatar":"https://tr.rbxcdn.com/10d11ebf6428c270a1d5dba39e9b69e6/150/150/AvatarHeadshot/Png",
+                "autor":"Meeros1",
+                "role":"Map Objects Designer",
+                "works":[
+                    "'Blocks Island' Models (Blocks)",
+                    "'Magic Forest' Models (Blocks)"
+                ],
+                "social_media":[
+                    "https://www.roblox.com/users/178087625/profile"
+                ]
+            }
+        ],
+        "pictures":[
+            "/mratomgames/games/mortal-run/pictures/ToxicInstallation.jpg",
+            "/mratomgames/games/mortal-run/pictures/BlocksIsland.jpg",
+            "/mratomgames/games/mortal-run/pictures/FrozenStorms.jpg",
+            "/mratomgames/games/mortal-run/pictures/SweetParadice.jpg",
+            "/mratomgames/games/mortal-run/pictures/Volcanus.jpg",
+            "/mratomgames/games/mortal-run/pictures/SkiesRevolution.jpg"
+        ],
+        "updates": [
+            {
+                "version":"1.68.25",
+                "name":"New Magic & Unknow maps!",
+                "launched":"Feb 2022",
+                "update_data":[
+                    "Search system in the Shop (Accessories & Effects) 🔍",
+                    "Player Archivements (Maps Socore) 🏅",
+                    "Marketplace bugs fixed! 🏷️",
+                    "Challenge System! 💪💰",
+                    "AFK System! 💤",
+                    "Boost Velocity Uptimized! 💨",
+                    "[MAP] Magic Forest (Normal) ✨🔮",
+                    "[MAP] Unknow Area (Easy) 👽🛸"
+                ],
+                "update_thumbnails":[
+                    {
+                        "name":"Magic Forest (Normal)",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/MagicForest.jpg" 
+                    },
+                    {
+                        "name":"Unknow Area (Easy) 👽🛸",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/UnknowArea.jpg" 
+                    }
+                ]
+            },
+
+            {
+                "version":"1.60.19",
+                "name":"Happy New Year! - Update",
+                "launched":"Jan 2022",
+                "update_data":[
+                    "Round Top System. 🥇",
+                    "Coins System. (Get Coins while you playing) 💰",
+                    "Server Chat. 📩",
+                    "New Code on twitter! ⭐",
+                    "Uptimized Round timer. ⏱️",
+                    "[MAIN FIXED] Rounds bug (when you enter map the lighting turn off)",
+                    "Climbing Wall Updated. (+ 0.5 studs more for climb the wall) 🏃‍♂️",
+                    "[MAP] Blocks Island (Hard) 🧱 First SpeedRun!"
+                ],
+                "update_thumbnails":[
+                    {
+                        "name":"Blocks Island (Hard)",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/BlocksIsland.jpg" 
+                    }
+                ]
+            },
+
+            {
+                "version":"1.52.18",
+                "name":"Christmas Update & Season 🎄",
+                "launched":"Dec 2021",
+                "update_data":[
+                    "[SEASON] Enjoy the Christmas Season  🎄 ⛄ (until 7/JANUARY)",
+                    "Tutorial: learn all skills for Mortal Run! 💀🏃",
+                    "Climbing Wall skill. 🧗⬆️",
+                    "Ballon item. 🎈",
+                    "Velocity Boost. 💨",
+                    "All maps updated with new skills. 🎯🗺️"
+                ],
+                "update_thumbnails":[
+                    {
+                        "name":"Christmas Season 🎄",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/ChristmasSeason.jpg" 
+                    }
+                ]
+            },
+
+            {
+                "version":"1.46.11",
+                "name":"Halloween Update & Season 🎃",
+                "launched":"Oct 2021",
+                "update_data":[
+                    "Enjoy the Hallowen Season (until 3/November) 🎃",
+                    "Halloween Themed lobby 👻",
+                    "Record System & Maps Completed System (Complete the maps and beat your record!) [Beta]. 🏃",
+                    "Level Up Animation. (2.0) ⭐",
+                    "Season System (Events are automatically updated, according to the established dates)",
+                    "Notifications with Rich Text. 🚨",
+                    "Spectate Mode [Beta] Camera Fixed & lighting camera. 🔆",
+                    "[MAIN FIXED] Slide Skill Deformation & Double Jump. 🏃",
+                    "[REVAMP] The Playground map (Playground). 🗺️",
+                    "[REVAMP] Sand's revenge map name changed to => Ancient desert 🗺️",
+                    "[REVAMP] Frozen Storms (Harder). 🗺️",
+                    "[REVAMP] Skies Revolution (Fixed). 🗺️",
+                    "[MAP] Toxic Installation (Normal)"
+                ],
+                "update_thumbnails":[
+                    {
+                        "name":"Halloween Season Started",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/HalloweenSeason.jpg"
+                    },
+                    {
+                        "name":"Toxic Installation (Normal) ☢",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/ToxicInstallation.jpg" 
+                    },
+                    {
+                        "name":"Playground V3",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/Playground.jpg" 
+                    },
+                    {
+                        "name":"Revenge Of the Sand => Ancient Desert V3",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/AcientDesert.jpg" 
+                    },
+                    {
+                        "name":"Sweet Paradice V2",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/SweetParadice.jpg"
+                    },
+                    {
+                        "name":"Frozen Storms V2",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/FrozenStorms.jpg" 
+                    }
+                ]
+            },
+
+            {
+                "version":"1.33.0",
+                "name":"Pre-Alpha Version",
+                "launched":"Jul 2021",
+                "update_data": [
+                        "Rounds System (updated x2) 👾",
+                        "Spectate Mode (Alpha) 👁️‍🗨️",
+                        "Game development 🕹️",
+                        "lobby (updated concept x3) (x1 never came to light) ✈️",
+                        "Difficulty system 😣",
+                        "Shop System: (Accessories, Effects, Currency, Gamepasses). 🛒",
+                        "Codes System #️⃣",
+                        "Inventory System 🎒",
+                        "Basic Settings system. (chage Gamepad, Enable FPS, Mute musics, Lobby Style[VIP - option]) ⚙️",
+                        "Died interfaces. ☠️",
+                        "Equip & UnEquip Accessories & effects system. 🎩💥",
+                        "Notification system. 🔔",
+                        "Server messagin system (v2.0: Rich Text). 🖥",
+                        "Player Stats in Screen (Coins & Level). 💰",
+                        "Special Bubble Chat: VIP & Roblox Premiun. 💬",
+                        "Map Starting Animation. 🎥",
+                        "Tutorial (First version).[DELETED]",
+                        "Level up animation (v1.0) 📈",
+                        "Gamepass VIP. 🎟️",
+                        "Clock Timer with maps. ⏱",
+                        "Ready animation (3, 2, 1, GO!) 🔥",
+                        "Currency changed Notification.",
+                        "Disabled Player Collisions. 💥",
+                        "Roblox Premiun benefits. 📣",
+                        "Basics Skills (Double jump & Slinding). 🎯",
+                        "Location Points (v1.0) 🚩",
+                        "Top Global MORTAL RUNNERS (Top leaderboard until 10 => now 15) 🏆",
+                        "Top 3 MORTAL RUNNERS (Statues until 3) 👑🏃",
+                        "[MAP] The Playground V1 🗺️",
+                        "[MAP] Revenge of the sand V1 🗺️",
+                        "[MAP] Frozen Storms V1 🗺️",
+                        "[MAP] Sweet Paradice V1 🗺️",
+                        "[MAP] Skies Revolution V1 🗺️",
+                        "[MAP] Volcanus V1 🗺️"
+                ],
+                "update_thumbnails":[
+                    {
+                        "name":"The Playground V3 (Updated x3)",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/ThePlaygroundV1.jpg" 
+                    }, 
+                    {
+                        "name":"Sweet Paradice V1",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/SweetParadiceV1.jpg"
+                    },
+                    {
+                        "name":"Skies Revolution V1",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/SkiesRevolution.jpg"
+                    },
+                    {
+                        "name":"Volcanus",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/Volcanus.jpg"
+                    }
+                ]
+            }
+        ]
+    },
+    "im-king": {
+        "icon":"https://tr.rbxcdn.com/28436b4d9602db85cdb70edef4827cc1/352/352/Image/Png",
+        "description":"To crown or be crowned is your goal with a series of rounds in which, if you are a king, escaping and defending yourself is vital so that no one takes your throne from you, on the other hand, if you are not a king, being the king is in your hands. Strategize with your weapons in hand to be able to get your way across amazing expansive maps for a battle arena! 👑",
+        "name":"I'M KING!",
+        "credits": [
+            {
+                "avatar":"https://tr.rbxcdn.com/5d9aeb7efa7f2f33fe3cea928847c2b7/150/150/AvatarHeadshot/Png",
+                "autor":"MrAtom_Official",
+                "role":"Main Programmer and designer",
+                "works":[
+                    "Programmer (system, gameplay, weapons, etc)",
+                    "Screen Designer (interfaces)"
+                ],
+                "social_media":[
+                    "https://twitter.com/MrAtomOfficial1",
+                    "https://www.roblox.com/users/1658144627/profile"
+                ]
+            },
+            {
+                "avatar":"https://tr.rbxcdn.com/1faf990f9df1bcb9b3d3759adf846fc9/150/150/AvatarHeadshot/Png",
+                "autor":"AIedaddads",
+                "role":"Builder & object designer",
+                "works":[
+                    "Game lighting",
+                    "'Castle Map' builder",
+                    "'Candy Map' builder",
+                    "Lobby builder",
+                    "General Builder",
+                    "General Object Designer"
+                ],
+                "social_media":[
+                    "https://www.roblox.com/users/1866431336/profile"
+                ]
+            },
+            {
+                "avatar":"https://tr.rbxcdn.com/717351b5941d1a3e887fff0aa0aa09ad/150/150/AvatarHeadshot/Png",
+                "autor":"lanutria300",
+                "role":"Builder & object designer",
+                "works":[
+                    "'Castle Map' builder",
+                    "'Candy Map' builder",
+                    "General Builder",
+                    "General Object Designer"
+                ],
+                "social_media":[
+                    "https://www.roblox.com/users/1809961486/profile"
+                ]
+            }
+        ],
+        "pictures":[
+            "/mratomgames/games/im-king/pictures/CastleMap.png",
+            "/mratomgames/games/im-king/pictures/CandyMap.png"
+        ],
+        "updates":[
+            {
+                "version":"1.0.0",
+                "name":"LAUNCHING!",
+                "launched":"Jul 2020",
+                "update_data":[
+                    "Gameplay System! (Rounds in loop!) 🕹️",
+                    "Game dynamics (battle, crown equip, spawn in map)! ⚔️",
+                    "Player Weapons (Knife, Sword) 🔪🗡️",
+                    "[FIRST MAP] Castle Map! V1.0 🏰",
+                    "[FIRST MAP] Candy Map! V1.0 🍭",
+                    "Attack Animations to player! 🕺🏻"
+                ],
+                "update_thumbnails":[
+                    {
+                        "name":"Castle Map",
+                        "source":"/mratomgames/games/im-king/thumbanils/CastleMap.png" 
+                    },
+                    {
+                        "name":"Candy Map",
+                        "source":"/mratomgames/games/im-king/thumbanils/CandyMap.png" 
+                    }
+                ]
+            }
+        ]
+    }
+}

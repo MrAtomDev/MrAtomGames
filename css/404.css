@@ -1,0 +1,68 @@
+main {
+    margin-bottom: -20px;
+    color: white;
+}
+
+#main-background {
+    background-size: cover;
+    background-attachment: fixed;
+    filter: brightness(40%);
+    transition: 0.5s;
+
+    width: 100%;
+    height: 100%;
+}
+
+#container-404 {
+    width: 100%;
+    height:100vh;
+}
+
+#error-img {
+    height:40vh;
+
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, -50%);
+}
+
+#error-desc {
+    position: absolute;
+    left: 50%;
+    top: 65%;
+    transform: translate(-50%, -50%);
+}
+
+#error-desc h1, #error-desc p {
+    text-align: center;
+}
+
+#error-desc a{
+    display: block;
+    margin-top: 30px;
+
+    text-align: center;
+
+    color: white;
+    background: rgb(0, 150, 255);
+    padding: 10px 20px;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.center {
+    justify-content: center;
+    transform: translate(-50%, -50%);
+}
+
+@media screen and (max-width:945px) {
+    #error-desc h1 {
+        font-size: 50px;
+    }
+    
+    #error-desc p,  #error-desc a {
+        font-size: 20px;
+    }
+}

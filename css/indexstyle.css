@@ -1,0 +1,234 @@
+:root{
+    --atom-color:rgb(0, 150, 255);
+    --atom-size: 450px;
+    --border-size: calc(var(--atom-size)/27);
+    --ellipses-rotation: 60deg;
+
+    --background-opacity: 0.7;
+    --brightness-parallax-img: 40%;
+}
+
+/*header*/
+#main-title {
+    position: absolute;
+    left: 50%;
+    top: calc(var(--atom-size) + 7%);
+
+    transform: translate(-50%, -50%);
+
+    color: white;
+    width: 100%;
+    text-align: center;
+    font-size: 65px;
+}
+#main-background {
+    animation: chagingBackground 20s infinite ease-in;
+    
+    width: 100%;
+    height: 100%;
+
+    background-size: cover;
+    background-attachment: fixed;
+    transition: .2s;
+
+    filter: brightness(var(--brightness-parallax-img));
+}
+/*atom desing*/
+#main-header {
+    width: 100%;
+    height: 650px;
+
+    position: relative;
+
+    margin-bottom: 40px;
+}
+/*atom*/
+#atom {
+    width: var(--atom-size);
+    height: var(--atom-size);
+    
+    position: absolute;
+    left: calc(50% - (var(--atom-size)/2));
+    top: 3%;
+}
+
+#nucleus {
+    width: 20%;
+    height: 20%;
+    background-color: var(--atom-color);
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+
+#ellipse-1{
+    transform: translate(-50%, -50%);
+}
+
+#ellipse-2{
+    transform: translate(-50%, -50%) rotate(var(--ellipses-rotation));
+}
+
+#ellipse-3{
+    transform: translate(-50%, -50%) rotate(calc(var(--ellipses-rotation)*-1));
+}
+
+.ellipse{
+    height: calc(97% - var(--border-size));
+    width: 30%;
+    border-radius: 50%;
+    border: var(--border-size) solid var(--atom-color);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+
+/*about MrAtom*/
+#about, #games {
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+
+#games {
+    width: 70%;
+}
+
+.game {
+    overflow: hidden;
+    margin-bottom: 40px;
+    padding: 12px;
+}
+
+.game h1 {
+    margin-top: 4px;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.right h1 {
+    text-align: right;
+}
+
+.right img {
+    float: right;
+    margin-left: 20px;
+    border-radius: 10px;
+    width: 352px;
+}
+
+.left img {
+    float: left;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.left h1, .left .description, .right .description{
+    text-align: justify;
+}
+
+.right .description, .left .description {
+    font-size: 19px;
+}
+
+.actions a {
+    margin-right: 15px;
+    padding: 7px 7px 7px 7px;
+    border-radius: 3px;
+    
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+
+    display: inline-block;
+
+    transition: 0.2s;
+}
+
+.actions a:hover {
+    transform: scale(1.2);
+}
+
+.play-now-btn {
+    background: #03e542;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.play-now-btn:hover {
+    background: #02ff4a;
+}
+
+.update-history-btn {
+    background: #ff8500;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.update-history-btn:hover {
+    background: rgb(255, 153, 0);
+}
+
+.credits-btn {
+    background: #008cff;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.credits-btn:hover {
+    background: #00b7ff;;
+}
+
+/*dark theme*/
+.dark-theme {
+    background: #232527;
+    color: white;
+
+}
+
+
+@media screen and (max-width:945px) {
+    :root {
+        --atom-size: 400px;
+    }
+    
+    #main-title {
+        font-size: 60px;
+        text-align: center;
+        width: 100%;
+    }
+    
+    #games {
+        width: 90%;
+    }
+    
+    .game img {
+        width: 90%;
+        display: block;
+        margin: 0px auto;
+    }
+    
+    .right h1, .left h1 {
+        text-align: center;
+        margin-top: 30px;
+    }
+    
+    .right img, .left img {
+        float: none;
+    }
+    
+    .actions {
+        display: flex;
+        justify-content: center;
+    }
+    .actions a{
+        width: 27%;
+        margin-bottom: 20px;
+        text-align: center;
+        font-size: 20px
+    }
+}

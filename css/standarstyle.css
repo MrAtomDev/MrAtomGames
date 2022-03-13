@@ -1,0 +1,252 @@
+@import url(scrollanims.css) all;
+@import url(font.css) all;
+@import url(normalize.css) all;
+@import url(header.css) all;
+
+:root {
+    --brightness-parallax-img: 40%;
+    --avatar-helper-size: 90px;
+}
+
+#game-presentation {
+    height: 700px;
+    position: relative;
+}
+
+#game-thumnails {
+    width: 100%;
+    height: 95%;
+
+    background-size: cover;
+    background-attachment: fixed;
+    filter: brightness(var(--brightness-parallax-img));
+    transition: 0.5s;
+}
+
+#official-game-name {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+
+    transform: translate(-50%, -50%);
+    width: 550px;
+}
+
+#game-name {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 50px;
+    margin-top: 0px;
+}
+
+#web-name {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    color: #3e3e3e;
+}
+
+main .content {
+    width: 70%;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* UPDATES PAGES */
+#current-update {
+    box-shadow: rgb(0 0 0 / 24%) 0px 3px 50px;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+#current-update h2 {
+    color: #ff0000;
+    text-align: center;
+    font-size: 33px;
+    animation: rainbowAnimation 10s ease-in-out infinite;
+}
+
+#current-update .update-name {
+    text-transform: uppercase;
+}
+
+@keyframes rainbowAnimation {
+    0% {
+        color: red;
+    }
+    10% {
+        color: rgb(255, 157, 0);
+    }
+    20% {
+        color: rgb(255, 208, 0);
+    }
+    30% {
+        color: rgb(94, 255, 0);
+    }
+    40% {
+        color: rgb(0, 255, 115);
+    }
+    50% {
+        color: rgb(0, 255, 234);
+    }
+    60% {
+        color: rgb(0, 81, 255);
+    }
+    70% {
+        color: rgb(132, 0, 255);
+    }
+    80% {
+        color: rgb(247, 0, 255);
+    }
+    90% {
+        color: rgb(255, 0, 170);
+    }
+    100% {
+        color: red;
+    }
+}
+.update-data-wrapper {
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+.update-data-wrapper img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+.update-name {
+    margin: 0px;
+    font-size: 30px;
+}
+
+.update-version {
+    margin: 0px;
+    font-size: 15px;
+    color: rgb(4, 167, 207);
+    display: inline;
+}
+
+.update-launch {
+    margin: 0px;
+    font-size: 15px;
+    color: rgb(88, 88, 88);
+    display: inline;
+}
+
+.thumbnail-name {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    font-size: 12px;
+}
+
+/* CREDITS PAGES */
+
+.helper-data {
+    overflow: hidden;
+    margin-bottom: 40px;
+    padding: 20px;
+}
+
+.helper-avatar {
+    width: var(--avatar-helper-size);
+    height: var(--avatar-helper-size);
+    border-radius: 50%;
+    float: left;
+}
+
+.helper-details {
+    float: right;
+    width: calc(100% - var(--avatar-helper-size) - 12px);
+}
+
+.helper-details h3 {
+    font-size: 33px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.helper-details h4 {
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    color: #3e3e3e;
+}
+
+.helper-social-media {
+    display: flex;
+    min-height: 50px;
+}
+
+.helper-social-network {
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+    transition: 0.2s;
+}
+
+.helper-social-network:hover {
+    transform: scale(1.2);
+}
+
+@media screen and (max-width:945px) {
+    /*UPDATES PAGES*/
+    #official-game-name {
+        min-width: 70%;
+    }
+
+    #game-presentation {
+        height: 1000px
+    }
+
+    #updates-wrapper, #credits-wrapper {
+      width: 100%;  
+    }
+    
+    #game-name {
+        font-size: 120px;
+    }
+    
+    #web-name {
+        font-size: 70px;
+    }    
+
+    #updates h2 {
+        font-size: 65px;
+    }
+
+    #updates h4 {
+        font-size: 55px;
+    }
+
+    #updates h5 {
+       font-size: 45px; 
+    }
+
+    #updates li {
+        font-size: 40px;
+    }    
+
+    /*CREDITS*/
+
+    .helper-details h3{
+        font-size: 60px;
+    }
+
+    .helper-details h4{
+        font-size: 40px;
+    }
+    
+    .helper-details ul li{
+        font-size: 34px;
+    }
+
+    .helper-social-network {
+        width: 100px;
+        height: 100px;
+    }
+}
