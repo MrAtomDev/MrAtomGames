@@ -64,6 +64,26 @@
         ],
         "updates": [
             {
+              "version":"1.75.27",
+               "name":"Voice Chat Enabled!",
+               "launched":"21 March 2022",
+               "update_data":[
+                   "New Water Terrain uptimized! 🌊",
+                   "Images in Challenge System! 🎯💪",
+                   "Spectecte mode - bug fixed about lighting! 👁️‍🗨️",
+                   "All songs updated (Maps Soundtracks & lobby)! 🎶",
+                   "Magic Forest with Extended soundtrack 🌟",
+                   "First Badge: Welcome badge! 👋",
+                   "Bagde System in Player Archivements 🏅"
+               ],
+               "update_thumbnails":[
+                    {
+                        "name":"Voice Chat Enabled",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/VoiceChat.jpg"
+                    }
+                ]
+            },
+            {
                 "version":"1.68.25",
                 "name":"New Magic & Unknow maps!",
                 "launched":"Feb 2022",
