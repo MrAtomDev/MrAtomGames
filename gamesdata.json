@@ -64,6 +64,31 @@
         ],
         "updates": [
             {
+              "version":"1.62.30",
+               "name":"Lost Temple Update!",
+               "launched":"30 April 2022",
+               "update_data":[
+                   "[MAP] LOST TEMPLE (NORMAL) 🏝🛤",
+                   "[NEW] What's new screen! 💥📰",
+                   "[NEW] Game start load screen in What's new screen! 🔄⚙️",
+                   "[NEW] Gameplay: Now, there is a map queue that prevents maps from repeating over and over again. 🎮🕹️",
+                   "[REVAMP] Color palette changed for interfaces: Menu, player stats, player screens (Inventory, Shop, Achievements, Settings, Secret Codes, Spectate Mode). 🎨",
+                   "[UPDATED] Top leaderboard table! 🏆🤴🏻",
+                   "[FIXED] Sliding Animation: Not loaded when the player press the sliding key. 🔨",
+                   "[FIXED] Block Island bugs! 🔧",
+                   "[FIXED] Tutorial bugs & traslated! ⚠️",
+                   "Refresh Button for Player Archivements! 🏅",
+                   "Refresh Button for Player Inventory! 🎒",
+               ],
+               "update_thumbnails":[
+                    {
+                        "name":"Lost Temple! ",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/LostTempleUpdate.jpg"
+                    }
+                ]
+            },
+            
+            {
               "version":"1.75.27",
                "name":"Voice Chat Enabled!",
                "launched":"21 March 2022",
