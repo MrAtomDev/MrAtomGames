@@ -63,6 +63,32 @@
             "/mratomgames/games/mortal-run/pictures/SkiesRevolution.jpg"
         ],
         "updates": [
+             {
+              "version":"1.83.32",
+               "name":"NEW EMOTES, UI DESING, CURRENCY CONCEPT!",
+               "launched":"28 July 2022",
+               "update_data":[
+                   "[NEW] EMOTES SYSTEM 🎭 (Beta) v1.0.0 (Press 'E' key for Keyboard or 'Button B' for XBOX) 🎮",
+                   "[NEW] CURRENCY & LEVEL DESING 💲📈",
+                   "[NEW]  PLAYER ANME & HEALTH DISPLAY❤️➕",
+                   "[NEW] UI DESING v2.0",
+                   "[UPDATE] Gameplay: The Server waits their players game load! 🔄",
+                   "[UPDATE] Inventory Equiped Database 🗄️🗂️",
+                   "[OPTIMIED] Inventory Database 🗄️🎒",
+                   "[FIXED] Inventory bugs 🎒🛠️"
+               ],
+               "update_thumbnails":[
+                    {
+                        "name":"Emotes Added! ",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/EmotesAdded.jpg"
+                    }
+                   {
+                        "name":"UI desing & currency Desing ",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/NewUiDesing.jpg"
+                    }
+                ]
+            },
+            
             {
               "version":"1.62.30",
                "name":"Lost Temple Update!",
