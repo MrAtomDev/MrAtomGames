@@ -64,18 +64,21 @@
         ],
         "updates": [
              {
-              "version":"1.83.34",
+              "version":"1.85.34",
                "name":"NEW EMOTES, UI DESING, CURRENCY CONCEPT!",
                "launched":"28 July 2022",
                "update_data":[
                    "[NEW] EMOTES SYSTEM 🎭 (Beta) v1.0.0 (Press 'E' key for Keyboard or 'Button B' for XBOX) 🎮",
                    "[NEW] CURRENCY & LEVEL DESING 💲📈",
                    "[NEW]  PLAYER ANME & HEALTH DISPLAY❤️➕",
+                   "[NEW] LOBBY SONG & WHAT'S NEW SONG",
                    "[NEW] UI DESING v3.0",
                    "[UPDATE] Gameplay: The Server waits their players game load! 🔄",
                    "[UPDATE] Inventory Equiped Database 🗄️🗂️",
                    "[OPTIMIED] Inventory Database 🗄️🎒",
-                   "[FIXED] Inventory bugs 🎒🛠️"
+                   "[FIXED] Inventory bugs 🎒🛠️",
+                   "[FIXED] Challenge System (Beta) 🛠️",
+                   "[FIXED] Tutorial bugs 🛠️"
                ],
                "update_thumbnails":[
                     {
