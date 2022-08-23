@@ -60,9 +60,54 @@
             "/mratomgames/games/mortal-run/pictures/FrozenStorms.jpg",
             "/mratomgames/games/mortal-run/pictures/SweetParadice.jpg",
             "/mratomgames/games/mortal-run/pictures/Volcanus.jpg",
-            "/mratomgames/games/mortal-run/pictures/SkiesRevolution.jpg"
+            "/mratomgames/games/mortal-run/pictures/SkiesRevolution.jpg",
+            "/mratomgames/games/mortal-run/pictures/8BitRegion.jpg"
         ],
         "updates": [
+              {
+              "version":"2.0.0",
+               "name":"GAME 2.0 - TOWARDS THE BETA",
+               "launched":"23 August 2022",
+               "update_data":[
+                   "[NEW] MAP DINAMIC MAPS ON 2D (Alpha v1.0.0) 🌌🚀 [2.0.0]",
+                   "[NEW] MAP: SKETCH WORLD (NORMAL 2D) ✏️",
+                   "[NEW] MAP: GEOMETRY LAND (EASY 2D) 💠",
+                   "[NEW] MAP: 8 BIT REGION (EASY 2D) 👾",
+                   "[NEW] Location Points Models (Concept) 💡",
+                   "[NEW] Accessories & Effects 👓💫",
+                   "[NEW] Shop category Section (New Items) 🗂️",
+                   "[NEW] Game timer desing ⏱️💀",
+                   "[NERFED] Magic Forest 🕹️✨",
+                   "[NERFED] Volcanus  🕹️🌋",
+                   "[NERFED]  Toxic Installation 🕹️☢️",
+                   "[NERFED] Unknow Area 🕹️👽",
+                   "[OPTIMIZED] Gameplay (Players paring to server) 🎮",
+                   "[OPTIMIZED] Refresh buttons (Archievements, Inventory) 🔄",
+                   "[OPTIMIZED] Game Animations 🎞️",
+                   "[FIXED] Spectate Mode Bugs (Beta 1.0.4) 👁️‍🗨️🛠️",
+                   "[FIXED] Emote Bugs 🎭🛠️",
+                   "[FIXED] Inventory Bugs 🎒🛠️"
+               ],
+               "update_thumbnails":[
+                    {
+                        "name":"Game 2.0",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/MortalRun2.0Released.jpg"
+                    },
+                    {
+                        "name":"8 Bit Region!",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/8BitRegion_MortalRun2.0.jpg"
+                    },
+                    {
+                        "name":"Geometry Land!",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/GeometryLand_MortalRun2.0.jpg"
+                    },
+                   {
+                        "name":"Sketch World!",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/SketchWorld_MortalRun2.0.jpg"
+                    }
+                ]
+            },
+            
              {
               "version":"1.85.34",
                "name":"NEW EMOTES, UI DESING, CURRENCY CONCEPT!",
