@@ -69,6 +69,7 @@
                "name":"GAME 2.0 - TOWARDS THE BETA",
                "launched":"23 August 2022",
                "update_data":[
+                   "[MAIN NEW] MAPS DINAMIC WITH CAMERA MANIPULATION! (Some maps already have this technology) 🌟🌟🌟",
                    "[NEW] MAP DINAMIC MAPS ON 2D (Alpha v1.0.0) 🌌🚀 [2.0.0]",
                    "[NEW] MAP: SKETCH WORLD (NORMAL 2D) ✏️",
                    "[NEW] MAP: GEOMETRY LAND (EASY 2D) 💠",
@@ -84,6 +85,7 @@
                    "[OPTIMIZED] Gameplay (Players paring to server) 🎮",
                    "[OPTIMIZED] Refresh buttons (Archievements, Inventory) 🔄",
                    "[OPTIMIZED] Game Animations 🎞️",
+                   "[OPTIMIZED] Spectator mode adapted for Camera Manipulation Animations 🎞️👁️‍🗨️",
                    "[FIXED] Spectate Mode Bugs (Beta 1.0.4) 👁️‍🗨️🛠️",
                    "[FIXED] Emote Bugs 🎭🛠️",
                    "[FIXED] Inventory Bugs 🎒🛠️"
