@@ -44,7 +44,7 @@ let templates = {
         template_body: 
         `
         <div id="about" class="element_animated">
-            <img id="mr-atom-avatar" src="https://tr.rbxcdn.com/276c956d58c948d316b0522f3971925c/150/150/AvatarHeadshot/Png" alt=":C">
+            <img id="mr-atom-avatar" src="https://tr.rbxcdn.com/9c9d5832394fe1ec4fe1200935c4919e/150/150/AvatarHeadshot/Png" alt=":C">
             
             <div id="info">
                 <h1>MrAtom_Official</h1>
