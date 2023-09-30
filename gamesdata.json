@@ -64,6 +64,63 @@
             "/mratomgames/games/mortal-run/pictures/8BitRegion.jpg"
         ],
         "updates": [
+            {
+              "version":"2.20.0",
+               "name":"NEW CATEGORIES AND HALLOWEEN UPDATE",
+               "launched":"30 September 2023",
+               "update_data":[
+                   "[FEATURE] CATEGORIES SYSTEM",
+                   "[SEASON] HALLOWEEN SEASON",
+                   "[NEW] Badge (Pumpkin Crazier)",
+                   "[NEW] Mortal Run Tutorial",
+                   "[NEW] Lobby V7",
+                   "[NEW] Best Round Players TOP UI",
+                   "[NEW] Heartbeat System",
+                   "[NEW] Lost player messages",
+                   "[NEW] Playing Rewards System",
+                   "[MAP] Pumpkin House (Easy) (Complete to get a badge only Halloween Season)",
+                   "[REVAMP] Lost Temple OST",
+                   "[REVAMP] Frozen Storms (Map & OST) V2",
+                   "[REVAMP] 8 Bit Region OST",
+                   "[UDPATE] What's new Screen",
+                   "[UPDATE] Map Introduction implements difficulty display",
+                   "[UPDATE] Challenge UI",
+                   "[FIXED] Beeb start sound",
+                   "[FIXED] 2D Camera",
+                   "[FIXED] Mobile Buttons",
+                   "[DELETED] Level system"
+               ],
+               "update_thumbnails":[
+                    {
+                        "name":"New Categories",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/NewCategories.jpg"
+                    },
+                    {
+                        "name":"Pumpkin House (Easy)",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/PumpkinHouse.jpg"
+                    },
+                    {
+                        "name":"New Frozen Storms",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/NewFrozenStormsV2.jpg"
+                    },
+                   {
+                        "name":"New Lobby V7!",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/NewLobbyV7.jpg"
+                   },
+                   {
+                        "name":"Bronze Category",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/BronzeCategory.jpg"
+                   },
+                   {
+                        "name":"Silver Category",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/SilverCategory.jpg"
+                   },
+                   {
+                        "name":"Gold Category",
+                        "source":"/mratomgames/games/mortal-run/thumbnails/GoldCategory.jpg"
+                   },
+                ]
+            },
               {
               "version":"2.0.0",
                "name":"GAME 2.0 - THE NEW AGE!",
